@@ -2,6 +2,11 @@
 
 Este é o meu primeiro repositório no GitHub. Ele foi criado com o objetivo de praticar os principais comandos do Git e o fluxo de versionamento com GitHub.
 
+## 👤 Configuração do Git (usuário global)
+```bash
+git config --global user.name "cristiannemachado"
+git config --global user.email "cmj330@proton.com"
+```
 
 ## 📂 Estrutura Inicial
 
@@ -27,12 +32,6 @@ git init
 echo "# Primeiro-repositorio" >> README.md
 git add README.md
 git commit -m "first commit"
-```
-
-### 👤 Configuração do Git (usuário global)
-```bash
-git config --global user.name "cristiannemachado"
-git config --global user.email "cmj330@proton.com"
 ```
 
 ### 🔗 Criação e configuração do repositório remoto
