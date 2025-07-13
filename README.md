@@ -5,7 +5,7 @@ Este é o meu primeiro repositório no GitHub. Ele foi criado com o objetivo de 
 ## 👤 Configuração do Git (usuário global)
 ```bash
 git config --global user.name "cristiannemachado"
-git config --global user.email "cmj330@proton.com"
+git config --global user.email "email"
 ```
 
 ## 📂 Estrutura Inicial
